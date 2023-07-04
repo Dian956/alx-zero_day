@@ -1,2 +1,5 @@
 echo I love ALX
-DO hard thing and you will be great
+update_script
+Do hard things and be great
+DO hard thing and  be great
+ master
